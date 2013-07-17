@@ -1,6 +1,6 @@
 <?php
 
-namespace Xeonys\Bundle\BanksBundle\DQL;
+namespace path/yourBundle\DQL;
 
 use Doctrine\ORM\Query\Lexer;
 use Doctrine\ORM\Query\AST\Functions\FunctionNode;
